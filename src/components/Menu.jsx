@@ -6,7 +6,7 @@ class Menu extends Component {
     return (
       <div>
         <Link to="/">Tracks</Link>
-        <Link to="/about">About</Link>
+        <Link to="/register">Регистрация</Link>
       </div>
     );
   }
