@@ -7,6 +7,7 @@ class Menu extends Component {
       <div>
         <Link to="/">Tracks</Link>
         <Link to="/register">Регистрация</Link>
+        <Link to="/dashboard">Todos</Link>
       </div>
     );
   }
